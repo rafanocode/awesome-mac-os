@@ -150,6 +150,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
 - [Falcon](https://flacon.github.io/) - An open source audio file encoder. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
+- [Hapi](https://speakhapi.com/) - Privacy-first voice transcription and meeting recorder for macOS. ![Dollar][mon]
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
 - [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
